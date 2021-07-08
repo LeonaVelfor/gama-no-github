@@ -1,0 +1,3 @@
+    Oi, eu sou o Gok...ops...a Leona. 
+    Bem, honestamente, e previsivelmente, estou achando o curso completo, simples e intuitivo. Claro, para algumas coisas é necessário um maior despendimento de tempo, como por exemplo esse módulo. Particularmente tive uma dificuldade particular em entender algo básico: como funciona o CMD do meu computador, e por conta disso demorei bastante para finalizar esse módulo e dar prosseguimento nos desafios, inclusive neste. 
+    Bem, é isso. <3
